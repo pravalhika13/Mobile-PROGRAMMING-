@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "992740109775",
+    "firebase_url": "https://mobilefirstapp-4915e.firebaseio.com",
+    "project_id": "mobilefirstapp-4915e",
+    "storage_bucket": "mobilefirstapp-4915e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992740109775:android:b639b9d8f857a9a9",
+        "android_client_info": {
+          "package_name": "com.umkc.lab5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992740109775-ogd7smr11o2lk2urqkhcv0g7rnjcm0er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwY6hVYcG8Xt3JrZornu0i4pffaS7YEBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992740109775-ogd7smr11o2lk2urqkhcv0g7rnjcm0er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992740109775:android:0e7008247a2b171f",
+        "android_client_info": {
+          "package_name": "edu.umkc.rashmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992740109775-ogd7smr11o2lk2urqkhcv0g7rnjcm0er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwY6hVYcG8Xt3JrZornu0i4pffaS7YEBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992740109775-ogd7smr11o2lk2urqkhcv0g7rnjcm0er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
